@@ -6,7 +6,7 @@ body {
 }
 /*this is the header */
 #header-nav {
-  background-color: #001f3f;
+  background-color: #f91a41;
   border-radius: 0;
   border: 0;
   height: 80px;
@@ -68,7 +68,7 @@ body {
 
 @media (max-width: 767px) {
   .navbar-default .navbar-collapse, .navbar-default .navbar-form {
-    background-color: #9b59b6;
+    background-color: #2b59b6;
     margin-top: 18px;
     position: relative;
     z-index: 9;
