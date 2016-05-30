@@ -31,7 +31,7 @@ body {
   margin-top: 10px; 
 }
 #nav-list a {
-  color: #2ecc71;
+  color: white;
   text-align: center; 
   font-size: 1.3em;
 }
@@ -68,7 +68,7 @@ body {
 
 @media (max-width: 767px) {
   .navbar-default .navbar-collapse, .navbar-default .navbar-form {
-    background-color: #2b59b6;
+    background-color: black;
     margin-top: 18px;
     position: relative;
     z-index: 9;
